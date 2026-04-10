@@ -20,7 +20,7 @@ htmlcov/
 .DS_Store
 .idea/
 .vscode/
-.codex/
+.codex
 
 # Local scratch files
 snippet.txt
